@@ -3,7 +3,7 @@ Version:	34481
 Release:	2
 Summary:	Provides an environment that may be conditionally included
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codesection
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/codesection
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codesection.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codesection.doc.r%{version}.tar.xz
